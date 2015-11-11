@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fruit_name">Fruit Name</string>
+    <string-array name="fruitsName">
+        <item name="Apple">Apple</item>
+        <item name="Avocado">Avocado</item>
+        <item name="Banana">Banana</item>
+        <item name="Blackberry">Blackberry</item>
+        <item name="Blackcurrant">Blackcurrant</item>
+        <item name="BloodOrange">Blood Orange</item>
+        <item name="Blueberry">Blueberry</item>
+        <item name="Cantaloupe">Cantaloupe</item>
+        <item name="Clementine">Clementine</item>
+        <item name="Cranberry">Cranberry</item>
+        <item name="Dragonfruit">Dragonfruit</item>
+        <item name="Gooseberry">Gooseberry</item>
+        <item name="Grape">Grape</item>
+        <item name="Jackfruit">Jackfruit</item>
+        <item name="Kiwifruit">Kiwi fruit</item>
+        <item name="Lemon">Lemon</item>
+        <item name="Mandarine">Mandarine</item>
+        <item name="Mango">Mango</item>
+        <item name="MiracleFruit">Miracle fruit</item>
+        <item name="Papaya">Papaya</item>
+        <item name="Passionfruit">Passionfruit</item>
+        <item name="Pineapple">Pineapple</item>
+        <item name="Pomegranate">Pomegranate</item>
+        <item name="Raspberry">Raspberry</item>
+        <item name="Redcurrant">Redcurrant</item>
+        <item name="Rockmelon">Rock melon</item>
+        <item name="Satsuma">Satsuma</item>
+        <item name="Strawberry">Strawberry</item>
+        <item name="Tangerine">Tangerine</item>
+        <item name="Watermelon">Watermelon</item>
+
+    </string-array>
+
+    <string-array name="fruitsDescription">
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+        <item name="Fruits">Fruits</item>
+
+    </string-array>
+</resources>
